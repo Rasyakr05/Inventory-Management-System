@@ -1,0 +1,17 @@
+{
+    "102": {
+        "name": "Pen",
+        "quantity": 100,
+        "price": 10.0
+    },
+    "103": {
+        "name": "Stapler",
+        "quantity": 15,
+        "price": 150.0
+    },
+    "101": {
+        "name": "Mug",
+        "quantity": 60,
+        "price": 90.0
+    }
+}
